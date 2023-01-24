@@ -1,3 +1,4 @@
 kék
 zöld
 fekete
+vörös
