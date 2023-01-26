@@ -2,9 +2,4 @@ kék
 zöld
 fekete
 vörös
-<<<<<<< HEAD
 lila   
-=======
-lila
-fehér
->>>>>>> 74ca30418924f9d56252bec407ca13d439e79ad8
