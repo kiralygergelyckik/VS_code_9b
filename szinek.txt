@@ -2,3 +2,4 @@ kék
 zöld
 fekete
 vörös
+lila
