@@ -5,3 +5,4 @@ vörös
 lila   
 fehér
 citromsárga
+narancssárga
