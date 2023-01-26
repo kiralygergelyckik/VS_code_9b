@@ -6,3 +6,4 @@ lila
 fehér
 citromsárga
 narancssárga
+barna
