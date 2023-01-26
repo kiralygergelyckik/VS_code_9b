@@ -4,3 +4,4 @@ fekete
 vörös
 lila   
 fehér
+citromsárga
